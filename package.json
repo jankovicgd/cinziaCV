@@ -1,29 +1,28 @@
 {
   "title": "Resume",
-  "name": "startbootstrap-resume",
+  "name": "resume-ch",
   "version": "4.0.0-beta.2",
-  "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
+  "description": "Resume Cinzia Hirschvogl.",
   "keywords": [
     "css",
     "sass",
     "html",
     "responsive",
-    "theme",
-    "template"
+    "theme"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/resume",
+  "homepage": "",
   "bugs": {
     "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
-    "email": "feedback@startbootstrap.com"
+    "email": "jankovic.gd@gmail.com"
   },
   "license": "MIT",
-  "author": "Start Bootstrap",
+  "author": "Start Bootstrap and Nikola Jankovic",
   "contributors": [
     "David Miller (http://davidmiller.io/)"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
+    "url": "https://github.com/jankovicgd/cinziaCV"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
