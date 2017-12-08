@@ -9,5 +9,5 @@ app.get('/', function(req, res) {
 app.set('port', 3000);
 
 var server = app.listen(process.env.PORT, function() {
-  console.log('Magic happens on port ' + port);
+  console.log("Running on " + process.env.PORT);
 });
