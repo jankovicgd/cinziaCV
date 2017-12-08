@@ -8,7 +8,6 @@ app.get('/', function(req, res) {
 
 app.set('port', 3000);
 
-var server = app.listen(app.get('port'), function() {
-  var port = server.address().port;
+var server = app.listen(process.env.PORT, function() {
   console.log('Magic happens on port ' + port);
 });
