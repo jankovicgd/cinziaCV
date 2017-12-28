@@ -32,9 +32,9 @@
       $this.toggleClass("expanded");
 
       if ($this.hasClass("expanded")) {
-          $this.html("<h3><i class='fa fa-caret-down' aria-hidden='true'></i>Colapse Interpretations</h3>");
+          $this.html("<h3><i class='fa fa-caret-down' aria-hidden='true'></i>Dolmetschungen einklappen</h3>");
       } else {
-          $this.html("<h3><i class='fa fa-caret-right' aria-hidden='true'></i>Expand Interpretations</h3>");
+          $this.html("<h3><i class='fa fa-caret-right' aria-hidden='true'></i>Dolmetschungen aufklappen</h3>");
       }
   });
 
